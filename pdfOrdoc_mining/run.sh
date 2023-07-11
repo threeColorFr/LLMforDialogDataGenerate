@@ -32,4 +32,4 @@ function read_dir(){
 #读取第一个参数
 read_dir $1 $2 # 输入的pdf文件夹；输出的txt文件夹
 
-# bash run.sh ../Data2 ../Data2_txt
+# bash run.sh ../Data2 ../Data2_txt > data2.log
