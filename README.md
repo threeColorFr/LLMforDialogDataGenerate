@@ -28,7 +28,7 @@ B: 是的，这篇文献使用了一些方法对市场进行细分，但是这�
 
 ```
 ## 整体步骤
-1. 首先准备原始数据（pdf, docx, doc）; 存放在Data文件夹下(也可以自己重命名)，支持多级目录存放
+1. 首先准备原始数据（pdf, docx, doc）; 存放在Data文件夹下(也可以自己重命名)，支持多级目录存放；doc需要先转换成docx，批量转见[about](https://github.com/threeColorFr/pdfOrdoc2txt-txt2dialog-llm/blob/main/Data/readme.md)
 2. 转换原始数据到txt文件中
 
 - 首先`cd pdfOrdoc_mining`
@@ -41,3 +41,4 @@ B: 是的，这篇文献使用了一些方法对市场进行细分，但是这�
 - 执行 `bash run.sh`; 注意修改batch_chatglm2.py文件中的参数：`call_for_all('../Data_txt', '../Data_txt_conv')`; Data_txt_conv文件夹是生成的对话数据存放目录
 - 环境见 [ChatGLM2](https://github.com/THUDM/ChatGLM2-6B); chatglm2-6b是本地加载时存放模型的文件夹，详情见[about](https://github.com/threeColorFr/pdfOrdoc2txt-txt2dialog-llm/blob/main/chatglm2-6b/readme.md)
 
+ps: 也可以利用chatgpt生成，见`doc2conv_chatgpt`文件夹
