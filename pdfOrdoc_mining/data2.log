@@ -1,0 +1,4282 @@
+../Data2
+../Data2_txt
+../Data2/百度教育
+../Data2_txt/百度教育
+../Data2/百度教育/常识
+../Data2_txt/百度教育/常识
+extra file type
+../Data2/百度教育/法规
+../Data2_txt/百度教育/法规
+../Data2/百度教育/事故调查及分析
+../Data2_txt/百度教育/事故调查及分析
+Traceback (most recent call last):
+  File "main_doc.py", line 12, in <module>
+    text = docx2txt.process(in_file)
+  File "/data/weixiang/.miniconda3/envs/ChatGLM2/lib/python3.8/site-packages/docx2txt/docx2txt.py", line 76, in process
+    zipf = zipfile.ZipFile(docx)
+  File "/data/weixiang/.miniconda3/envs/ChatGLM2/lib/python3.8/zipfile.py", line 1216, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '../Data2/百度教育/常识/(1).docx'
+extra file type
+../Data2/北大法宝
+../Data2_txt/北大法宝
+../Data2/考题题库
+../Data2_txt/考题题库
+../Data2/知网论文
+../Data2_txt/知网论文
+../Data2/知网论文/国内期刊-交通-综述
+../Data2_txt/知网论文/国内期刊-交通-综述
+extra file type
+extra file type
+extra file type
+../Data2/知网论文/国外期刊-交通
+../Data2_txt/知网论文/国外期刊-交通
+Traceback (most recent call last):
+  File "main_pdf.py", line 58, in <module>
+    pdffile = open(file, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '../Data2/知网论文/国内期刊-交通-综述/(1).pdf'
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/交通地理学研究进展与趋势—...eSpace的图谱量化分析_王邦娟.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/中国城市公共交通建设立法问...——以厦门快速公交系统为例_王威.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,492.320,745.190 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/中国人工智能学会智能交通专...会第一届学术年会在广州召开_刘清.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,566.900,813.400 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/智能交通系统综述_张志文.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,596.430,842.700 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/轨道交通网络信息安全综述_张思雨.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.500,842.250 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.500,842.250 rotate=0>
+DONE:../Data2_txt/百度教育/事故调查及分析/交通事故分析报告格式[最新版].txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,605.840,837.950 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/职业汽车驾驶员心理能力研究综述_陆婷.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,892.390 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,892.390 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,892.390 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/交通运输化学事故医学救援机制及行动对策研究文献综述_朱晓燕.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/考题题库/2022年城市轨道交通站务考试模拟试题20.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/考题题库/《交通运输专业》综合考试试卷-二-.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,491.830,694.430 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/绿色港口污染物智能监测与控制方法研究综述_郭建群.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.000,825.120 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/现代通信系统在智能交通领域的应用综述_杜强.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.050,858.040 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,612.050,858.040 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,612.050,858.040 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,612.050,858.040 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,612.050,858.040 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,612.050,858.040 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/面向城市道路的等效通行能力方法研究_耿媛婧.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/考题题库/2022年城市轨道交通站务考试模拟试题33.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 13
+
+END PAGE 13
+
+<LTPage(28) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 14
+
+END PAGE 14
+
+<LTPage(30) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 15
+
+END PAGE 15
+
+<LTPage(32) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 16
+
+END PAGE 16
+
+<LTPage(34) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 17
+
+END PAGE 17
+
+<LTPage(36) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 18
+
+END PAGE 18
+
+<LTPage(38) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 19
+
+END PAGE 19
+
+<LTPage(40) 0.000,0.000,956.000,1353.000 rotate=0>
+START PAGE 20
+
+END PAGE 20
+
+<LTPage(42) 0.000,0.000,956.000,1353.000 rotate=0>
+DONE:../Data2_txt/考题题库/道路交通管理与控制试卷.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,600.500,813.400 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/低碳生态城市的规划与设计——低碳城市交通规划_唐淼.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,491.830,694.430 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,491.830,694.430 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/多功能航标技术综述与展望_马玉鹏.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,603.900,919.940 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,603.900,919.940 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,603.900,919.940 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,603.900,919.940 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/上海轨道交通9号线二期工程技术综述_缪海祥.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,594.100,828.340 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/公共交通出行方式选择影响因素分析_姚丽亚.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/中国智能交通系统发展瓶颈分析及发展策略研究_石京.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,603.220,866.190 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/新《道路交通安全法》实施以来的理论及实践问题研究综述_陈长龙.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市低收入人群界定及其活动——出行研究现状_陈慧.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,594.100,828.340 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/国内外BRT发展与大连城市公共交通的对策研究_杨智伟.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,601.770,862.890 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,601.770,862.890 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,601.770,862.890 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,601.770,862.890 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,601.770,862.890 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/沪、津、渝等城市轨道交通地下工程防水设计综述_张勇.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,600.310,813.110 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,600.310,813.110 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,600.310,813.110 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,600.310,813.110 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/智能交通系统发展综述_朱东辉.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/网络交通流宏观基本图研究综述_廖大彬.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.283,858.898 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,612.283,858.898 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,612.283,858.898 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,612.283,858.898 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/国内外旅游交通专业建设和技能型人才培养研究综述_康思超.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,856.580 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/自动驾驶汽车-行人交互研究综述_胡宏宇.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,600.500,813.400 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/城市慢行交通发展模式研究_张航.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.280,824.880 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,612.280,824.880 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,612.280,824.880 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,612.280,824.880 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/对“适合国内公路隧道特点的...面新技术”的综述与应用建议_张必胜.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,539.570,761.390 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/浅谈我国城市轨道交通工程建设风险控制_刘万兰.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市交通公平研究综述_张开翼.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市轨道交通自动控制算法研究综述_郑成斌.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.000,808.000 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/城市交通拥堵问题分析及对策研究_李蒙.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,478.820,661.250 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,478.820,661.250 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,478.820,661.250 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,478.820,661.250 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/北京低碳城市发展——“20...北京市城市经济学会专场综述_刘春英.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 13
+
+END PAGE 13
+
+<LTPage(28) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 14
+
+END PAGE 14
+
+<LTPage(30) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 15
+
+END PAGE 15
+
+<LTPage(32) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 16
+
+END PAGE 16
+
+<LTPage(34) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 17
+
+END PAGE 17
+
+<LTPage(36) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 18
+
+END PAGE 18
+
+<LTPage(38) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 19
+
+END PAGE 19
+
+<LTPage(40) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 20
+
+END PAGE 20
+
+<LTPage(42) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 21
+
+END PAGE 21
+
+<LTPage(44) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 22
+
+END PAGE 22
+
+<LTPage(46) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 23
+
+END PAGE 23
+
+<LTPage(48) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 24
+
+END PAGE 24
+
+<LTPage(50) 0.000,0.000,595.300,841.900 rotate=0>
+DONE:../Data2_txt/百度教育/事故调查及分析/湖北省交通事故综合情况数据分析报告2019版.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市轨道交通活塞风井设计研究综述_龚蓂杰.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,600.500,813.400 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,600.500,813.400 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/绿色网络化的公共自行车系统研究——以武汉市为例_刘婕.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/中国城市公共汽车供给的空间...9个地级以上城市的数据分析_林溪.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.276,807.874 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/空中交通管制员工作负荷研究综述_刘伟.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,533.360,788.750 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,533.360,788.750 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,533.360,788.750 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,533.360,788.750 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,533.360,788.750 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,533.360,788.750 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/城市轨道交通环境评价与环境控制_赵毓成.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,594.100,828.340 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/基于行为的城市轨道交通客流...北京地铁五号线客流预测为例_李春艳.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,594.100,828.340 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,594.100,828.340 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/城市公共交通服务水平及其评价体系研究_王元庆.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 13
+
+END PAGE 13
+
+<LTPage(28) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 14
+
+END PAGE 14
+
+<LTPage(30) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 15
+
+END PAGE 15
+
+<LTPage(32) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 16
+
+END PAGE 16
+
+<LTPage(34) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 17
+
+END PAGE 17
+
+<LTPage(36) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 18
+
+END PAGE 18
+
+<LTPage(38) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 19
+
+END PAGE 19
+
+<LTPage(40) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 20
+
+END PAGE 20
+
+<LTPage(42) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 21
+
+END PAGE 21
+
+<LTPage(44) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 22
+
+END PAGE 22
+
+<LTPage(46) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 23
+
+END PAGE 23
+
+<LTPage(48) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 24
+
+END PAGE 24
+
+<LTPage(50) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 25
+
+END PAGE 25
+
+<LTPage(52) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 26
+
+END PAGE 26
+
+<LTPage(54) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 27
+
+END PAGE 27
+
+<LTPage(56) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 28
+
+END PAGE 28
+
+<LTPage(58) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 29
+
+END PAGE 29
+
+<LTPage(60) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 30
+
+END PAGE 30
+
+<LTPage(62) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 31
+
+END PAGE 31
+
+<LTPage(64) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 32
+
+END PAGE 32
+
+<LTPage(66) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 33
+
+END PAGE 33
+
+<LTPage(68) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 34
+
+END PAGE 34
+
+<LTPage(70) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 35
+
+END PAGE 35
+
+<LTPage(72) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 36
+
+END PAGE 36
+
+<LTPage(74) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 37
+
+END PAGE 37
+
+<LTPage(76) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 38
+
+END PAGE 38
+
+<LTPage(78) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 39
+
+END PAGE 39
+
+<LTPage(80) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 40
+
+END PAGE 40
+
+<LTPage(82) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 41
+
+END PAGE 41
+
+<LTPage(84) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 42
+
+END PAGE 42
+
+<LTPage(86) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 43
+
+END PAGE 43
+
+<LTPage(88) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 44
+
+END PAGE 44
+
+<LTPage(90) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 45
+
+END PAGE 45
+
+<LTPage(92) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 46
+
+END PAGE 46
+
+<LTPage(94) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 47
+
+END PAGE 47
+
+<LTPage(96) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 48
+
+END PAGE 48
+
+<LTPage(98) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 49
+
+END PAGE 49
+
+<LTPage(100) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 50
+
+END PAGE 50
+
+<LTPage(102) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 51
+
+END PAGE 51
+
+<LTPage(104) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 52
+
+END PAGE 52
+
+<LTPage(106) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 53
+
+END PAGE 53
+
+<LTPage(108) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 54
+
+END PAGE 54
+
+<LTPage(110) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 55
+
+END PAGE 55
+
+<LTPage(112) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 56
+
+END PAGE 56
+
+<LTPage(114) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 57
+
+END PAGE 57
+
+<LTPage(116) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 58
+
+END PAGE 58
+
+<LTPage(118) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 59
+
+END PAGE 59
+
+<LTPage(120) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 60
+
+END PAGE 60
+
+<LTPage(122) 0.000,0.000,596.000,842.000 rotate=0>
+START PAGE 61
+
+END PAGE 61
+
+<LTPage(124) 0.000,0.000,596.000,842.000 rotate=0>
+DONE:../Data2_txt/百度教育/常识/交通的发展——精选推荐.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,612.280,858.900 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/综合交通运输系统内旅客运输成本综述_赵璐阳.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,538.890,763.520 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,538.890,763.520 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/沪宁高速公路江苏段扩建工程组织与管理综述_沈长全.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.300,841.900 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/一个评价交通便利的概念框架_李秀菊.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,603.220,866.190 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,603.220,866.190 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/津沧高速公路外环线收费站迁建工程设计综述_王蕊.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,482.128,694.488 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,482.128,694.488 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,482.128,694.488 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,482.128,694.488 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,482.128,694.488 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,482.128,694.488 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/交通指数和北京交通需求管理政策评估_温慧敏.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.000,808.000 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/城市智能交通系统框架体系与架构设计方法研究_王振华.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/北斗卫星导航定位系统在智能交通管理中的应用及其前景_王楠.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/智能车的研究现状与发展趋势_徐友春.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,540.540,771.870 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/道路通行能力研究现状及发展综述_张亚平.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/基于出行特征的小城镇人性化交通空间优化对策_夏晶晶.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,604.390,822.330 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,604.390,822.330 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,604.390,822.330 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,604.390,822.330 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/城市慢行系统及慢行空间景观营建_王菁菁.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.000,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市土地利用与城市交通互动机理模型研究_靳来勇.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,556.160,812.430 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,556.160,812.430 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,556.160,812.430 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,556.160,812.430 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/安徽省新一轮过江通道布局规划研究综述_卢川.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,608.270,852.020 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,608.270,852.020 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,608.270,852.020 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,608.270,852.020 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,608.270,852.020 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,608.270,852.020 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,608.270,852.020 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/首都机场道路交通规划方案综述_和坤玲.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/国内大数据与交通研究综述_朱笠.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/图像处理技术在智能交通中的应用研究_张磊.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.000,808.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/基于强化学习的交通信号控制方法综述_霍雨森.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,540.540,771.870 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,540.540,771.870 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市道路网容量研究与应用综述_冷传才.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/当代民航空管监视系统综述_于敬宇.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,623.622,878.740 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,623.622,878.740 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,623.622,878.740 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,623.622,878.740 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,623.622,878.740 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,623.622,878.740 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,623.622,878.740 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市干线协调管控方法研究综述_谭静.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/高速公路市政化改造要点研究_关士托.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市地下交通系统理论综述与规划实践_邵勇.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,574.110,855.420 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,574.110,855.420 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,574.110,855.420 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,574.110,855.420 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,574.110,855.420 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,574.110,855.420 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/交通控制技术综述_成卫.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,610.110,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/车路协同环境下车辆自适应巡航控制研究_张蕊.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,590.700,796.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,590.700,796.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,590.700,796.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,590.700,796.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,590.700,796.900 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,590.700,796.900 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,590.700,796.900 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/大赛综述.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,539.570,761.390 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,539.570,761.390 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/我国城市地铁运营系统的风险与安全评价研究_束昱.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,547.720,760.130 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市建设项目交通影响分析研究综述_蔡晓禹.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,612.280,858.900 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/需求响应型定制公交研究综述与发展对策_黄迪.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/道路交通安全规划理论研究前沿_黄合来.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,604.870,836.690 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,604.870,836.690 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,604.870,836.690 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,604.870,836.690 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,604.870,836.690 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,604.870,836.690 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,604.870,836.690 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,604.870,836.690 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/建设台湾海峡VTS，助力海...台湾海峡VTS系统建设综述_柳秉坦.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 13
+
+END PAGE 13
+
+<LTPage(28) 0.000,0.000,612.280,858.900 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/中国城市通勤碳排放研究综述_程静.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.400,924.020 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/基于手机数据的城市交通规划决策支持系统研究_林群.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,596.910,811.940 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,596.910,811.940 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,596.910,811.940 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,596.910,811.940 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,596.910,811.940 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/武汉轨道交通地下结构渗漏水治理综述_姚春桥.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/公共交通出行信息对乘客出行行为的影响机理研究_魏雪梅.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,547.720,760.130 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,547.720,760.130 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/国外智能交通系统(ITS)发展综述及对北京市的启示_陈旭梅.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,595.220,842.000 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,595.220,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/残疾人出行心理的研究综述与城市交通规划建议_蔡言.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,610.110,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/低碳经济背景下我国智能交通发展研究_李雪.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.000,808.000 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/中美综合交通的现状与未来对比分析_王晓磊.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.400,924.020 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/道路交通安全管理问题研究综述_胡家兴.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.320,841.920 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,595.320,841.920 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/中国交通现代化文献综述_赵西君.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,595.300,841.900 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,595.300,841.900 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/成都市轨道交通网络结构分析_索世琦.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,595.000,808.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,595.000,808.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市交通运行评价方法与应用综述_章程.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,594.780,851.150 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,594.780,851.150 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,594.780,851.150 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,594.780,851.150 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/驾驶行为研究方法综述_杨硕.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,612.280,858.900 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,612.280,858.900 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市道路交通阻塞诊断研究综述_李佳贤.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.400,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/交通系统建模研究综述_程子龙.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.400,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市环境下的红路灯检测方法综述_魏威.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,621.660,821.360 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,621.660,821.360 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/智能运输系统项目社会经济影响评价综述_隽志才.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,610.400,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/公共自行车与共享单车研究综述_许璇璇.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.400,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.400,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/交通标志牌检测与识别研究综述_刘佳敏.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 13
+
+END PAGE 13
+
+<LTPage(28) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 14
+
+END PAGE 14
+
+<LTPage(30) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 15
+
+END PAGE 15
+
+<LTPage(32) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 16
+
+END PAGE 16
+
+<LTPage(34) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 17
+
+END PAGE 17
+
+<LTPage(36) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 18
+
+END PAGE 18
+
+<LTPage(38) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 19
+
+END PAGE 19
+
+<LTPage(40) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 20
+
+END PAGE 20
+
+<LTPage(42) 0.000,0.000,485.320,756.830 rotate=0>
+START PAGE 21
+
+END PAGE 21
+
+<LTPage(44) 0.000,0.000,485.320,756.830 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/中国近代铁路史研究综述及展望_1979～2009_江沛.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,598.660,829.020 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,598.660,829.020 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,598.660,829.020 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,598.660,829.020 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,598.660,829.020 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,598.660,829.020 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/轨道交通故障诊断综述_徐可.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,614.670,819.220 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,614.670,819.220 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,614.670,819.220 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,614.670,819.220 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,614.670,819.220 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,614.670,819.220 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市设计视角下AnyLog...术在交通仿真领域的应用综述_魏书祥.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.276,841.890 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.276,841.890 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.276,841.890 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/BIM在城市轨道交通工程施工中的应用综述_王茂林.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,610.110,857.070 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,610.110,857.070 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/深圳市智能交通“十二·五”规划设计研究_关志超.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,823.010 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/城市道路交通拥堵收费政策的...研究——以大连市中山区为例_王凯.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,603.220,898.110 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,603.220,898.110 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/公共交通对城市基础设施和城...约为个案的比较研究(英文)_周昉.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,610.400,924.020 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,610.400,924.020 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/基于VISSIM的十字环形交叉口交通控制方式研究_喻军皓.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 12
+
+END PAGE 12
+
+<LTPage(26) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 13
+
+END PAGE 13
+
+<LTPage(28) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 14
+
+END PAGE 14
+
+<LTPage(30) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 15
+
+END PAGE 15
+
+<LTPage(32) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 16
+
+END PAGE 16
+
+<LTPage(34) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 17
+
+END PAGE 17
+
+<LTPage(36) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 18
+
+END PAGE 18
+
+<LTPage(38) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 19
+
+END PAGE 19
+
+<LTPage(40) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 20
+
+END PAGE 20
+
+<LTPage(42) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 21
+
+END PAGE 21
+
+<LTPage(44) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 22
+
+END PAGE 22
+
+<LTPage(46) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 23
+
+END PAGE 23
+
+<LTPage(48) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 24
+
+END PAGE 24
+
+<LTPage(50) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 25
+
+END PAGE 25
+
+<LTPage(52) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 26
+
+END PAGE 26
+
+<LTPage(54) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 27
+
+END PAGE 27
+
+<LTPage(56) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 28
+
+END PAGE 28
+
+<LTPage(58) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 29
+
+END PAGE 29
+
+<LTPage(60) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 30
+
+END PAGE 30
+
+<LTPage(62) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 31
+
+END PAGE 31
+
+<LTPage(64) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 32
+
+END PAGE 32
+
+<LTPage(66) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 33
+
+END PAGE 33
+
+<LTPage(68) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 34
+
+END PAGE 34
+
+<LTPage(70) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 35
+
+END PAGE 35
+
+<LTPage(72) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 36
+
+END PAGE 36
+
+<LTPage(74) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 37
+
+END PAGE 37
+
+<LTPage(76) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 38
+
+END PAGE 38
+
+<LTPage(78) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 39
+
+END PAGE 39
+
+<LTPage(80) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 40
+
+END PAGE 40
+
+<LTPage(82) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 41
+
+END PAGE 41
+
+<LTPage(84) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 42
+
+END PAGE 42
+
+<LTPage(86) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 43
+
+END PAGE 43
+
+<LTPage(88) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 44
+
+END PAGE 44
+
+<LTPage(90) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 45
+
+END PAGE 45
+
+<LTPage(92) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 46
+
+END PAGE 46
+
+<LTPage(94) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 47
+
+END PAGE 47
+
+<LTPage(96) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 48
+
+END PAGE 48
+
+<LTPage(98) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 49
+
+END PAGE 49
+
+<LTPage(100) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 50
+
+END PAGE 50
+
+<LTPage(102) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 51
+
+END PAGE 51
+
+<LTPage(104) 0.000,0.000,842.000,595.000 rotate=0>
+START PAGE 52
+
+END PAGE 52
+
+<LTPage(106) 0.000,0.000,842.000,595.000 rotate=0>
+DONE:../Data2_txt/知网论文/国外期刊-交通/中国交通运输发展状况、趋势、发展战略部署与建设重点_王德荣.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,823.010 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,823.010 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/绿色生态道路标准体系研究综述_杨国淑.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,595.000,842.000 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,595.000,842.000 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/沈阳公交IC卡系统综述_李鸿艳.txt
+START PAGE 0
+
+END PAGE 0
+
+<LTPage(2) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 1
+
+END PAGE 1
+
+<LTPage(4) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 2
+
+END PAGE 2
+
+<LTPage(6) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 3
+
+END PAGE 3
+
+<LTPage(8) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 4
+
+END PAGE 4
+
+<LTPage(10) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 5
+
+END PAGE 5
+
+<LTPage(12) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 6
+
+END PAGE 6
+
+<LTPage(14) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 7
+
+END PAGE 7
+
+<LTPage(16) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 8
+
+END PAGE 8
+
+<LTPage(18) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 9
+
+END PAGE 9
+
+<LTPage(20) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 10
+
+END PAGE 10
+
+<LTPage(22) 0.000,0.000,610.110,856.580 rotate=0>
+START PAGE 11
+
+END PAGE 11
+
+<LTPage(24) 0.000,0.000,610.110,856.580 rotate=0>
+DONE:../Data2_txt/知网论文/国内期刊-交通-综述/平行控制与管理的研究及应用进展综述_熊刚.txt

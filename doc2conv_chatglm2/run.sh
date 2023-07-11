@@ -1,0 +1,1 @@
+nohup python -u batch_chatglm2.py > output2.log 2>&1 &
