@@ -2,6 +2,7 @@
 function read_dir(){
     echo $1
     echo $2
+    mkdir -p $2
     for file in `ls $1`       #注意此处这是两个反引号，表示运行系统命令
     do
         if [ -d $1/$file ]  #注意此处之间一定要加上空格，否则会报错
