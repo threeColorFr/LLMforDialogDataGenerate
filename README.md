@@ -1,4 +1,4 @@
-# pdfOrdoc2txt-txt2dialog-llm
+# LLMforDialogDataGenerate
 Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT；
 
 利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
