@@ -75,6 +75,7 @@ def call_for_all(in_dir, out_dir):
 
 def call_for_all(in_dir, out_dir):
     files = os.listdir(in_dir)
+    os.makedirs(out_dir, exist_ok=True)
     for file in files:
         in_next = in_dir + '/' + file
         out_next = out_dir + '/' + file
