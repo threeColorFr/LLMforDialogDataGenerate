@@ -89,7 +89,10 @@ def call_for_all(in_dir, out_dir):
 
             pre, _ = os.path.splitext(out_next)
             out_next = pre + '.conv'
-            generate_conv(in_next, out_next)
+            try:
+                generate_conv(in_next, out_next)
+            except Exception as e:
+                print(str(e))
                 
 
 
