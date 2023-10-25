@@ -17,7 +17,7 @@ with open("tokens.txt", "r") as f:
     keys = [key.strip() for key in keys]
 
 all_keys = itertools.cycle(keys)
-openai.api_base = "https://chatie.deno.dev/v1"
+openai.api_base = ""
 
 def create(**args):
     global all_keys
